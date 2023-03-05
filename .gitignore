@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#virtual_env
+venv_menu_project/
+.idea/
